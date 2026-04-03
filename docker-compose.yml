@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+
+  web:
+    image: netflix-clone
+    container_name: netflix-app
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
