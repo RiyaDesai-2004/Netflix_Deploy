@@ -15,16 +15,6 @@ This project demonstrates a complete **DevOps CI/CD pipeline** for a static Netf
 
 
 Watch all your favourite movies, web series, TV shows and anime for free. 
-
-
-## Demo
-
-https://netflix-1uh.pages.dev
-
-## GIF
-
-![App GIF](https://raw.githubusercontent.com/pulkitpareek18/netflix/main/netflix-ke-pitaji.gif)
-
 ---
 
 ## ✨ Features
@@ -38,9 +28,6 @@ https://netflix-1uh.pages.dev
 - 🔒 Security scanning with Semgrep
 
 ---
-
-Open the project directory and run `index.html`.
-
 
 # 🎬 Netflix Ke Pitaji — CI/CD Deployment
 
@@ -57,21 +44,6 @@ Open the project directory and run `index.html`.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiyaDesai-2004/Netflix_Deploy)
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Docker Setup](#docker-setup)
-- [Jenkins CI/CD Pipeline](#jenkins-cicd-pipeline)
-- [Deployment Flow](#deployment-flow)
-- [Features](#features)
-- [Author](#author)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -306,12 +278,6 @@ Developer pushes code to GitHub
 **Riya Desai**
 
 [![GitHub](https://img.shields.io/badge/GitHub-RiyaDesai--2004-181717?style=flat-square&logo=github)](https://github.com/RiyaDesai-2004)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/RiyaDesai-2004/Netflix_Deploy/blob/main/LICENSE).
 
 ---
 
